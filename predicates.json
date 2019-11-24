@@ -1,0 +1,31 @@
+{
+  "hashes": [
+    "Jesus",
+    "Mary",
+    "Joseph"
+  ],
+  "relations": {
+    "born": [
+      ["Joseph", -27],
+      ["Mary", -27],
+      ["Jesus", -4]
+    ],
+    "died": [
+      ["Joseph", 27],
+      ["Mary", 27],
+      ["Jesus", 34]
+    ],
+    "married": [
+      ["Joseph", "Mary", -5]
+    ],
+    "parents": [
+      ["Mary", "Jesus"],
+      ["Joseph", "Jesus"]
+    ],
+    "legitimate": [
+      ["Joseph", true],
+      ["Mary", true],
+      ["Jesus", false]
+    ]
+  }
+}
