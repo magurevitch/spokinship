@@ -15,12 +15,13 @@
       ["Mary", 27],
       ["Jesus", 34]
     ],
-    "married": [
+    "marriages": [
       ["Joseph", "Mary", -5]
     ],
     "parents": [
       ["Mary", "Jesus"],
-      ["Joseph", "Jesus"]
+      ["Joseph", "Jesus"],
+      ["Jesus", "Everybody"]
     ],
     "legitimate": [
       ["Joseph", true],
