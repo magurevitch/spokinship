@@ -2,7 +2,9 @@
   "hashes": [
     "Jesus",
     "Mary",
-    "Joseph"
+    "Joseph",
+    "Church",
+    "Everybody"
   ],
   "relations": {
     "born": [
@@ -16,7 +18,8 @@
       ["Jesus", 34]
     ],
     "marriages": [
-      ["Joseph", "Mary", -5]
+      ["Joseph", "Mary", -5],
+      ["Jesus", "Church", 34]
     ],
     "parents": [
       ["Mary", "Jesus"],
